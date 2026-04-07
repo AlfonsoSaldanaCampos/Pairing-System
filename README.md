@@ -86,7 +86,7 @@ Sistema para generar parejas evitando repeticiones usando lógica y aleatoriedad
 </p>
 
 <p align="center">
-  <img src="img/6.jpeg" alt="Oyente" width="600">
+  <img src="img/6.png" alt="Oyente" width="600">
 </p>
 
 
